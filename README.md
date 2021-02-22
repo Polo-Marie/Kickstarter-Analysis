@@ -10,7 +10,7 @@ In Depth Views of Data Trends
 
 Is the length of the fundraising campaign correlated with its success?
 In utilizing the data provided, based on all of the successful plays in the US, the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days.
-**Chart here**
+![](Kickstarter-Analysis/US_Outcome_Plays.png)
 
 In what season were the campaigns the most successful?
 Summer was the most successful season for the play campaigns. The month of May was the overall most successful, followed by June, July, and August. Unfortunately, those same months were the months of the highest failure rates as well as shown by the following chart:
