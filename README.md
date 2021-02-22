@@ -1,4 +1,4 @@
-# Am Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 
 The following analysis is to assist a playwrite. 
@@ -30,7 +30,7 @@ The successful plays seeking the same amount averaged a total of 11,089 in pledg
 
 ### Kickstarters Campaign Statistical Components:
 
-**Include chart here**
+![](Descriptive_Statistics.png)
 
 The statistical components tells us: 
 - The mean of each distribution is in the 3rd quartile and the data follows similar distributions in each subset
@@ -53,22 +53,22 @@ Upon analyzing the data through the use of Box Plots, it shows us that, yes, the
 
 ![](GBTheaterFund.png)
 
+As a result, in regard to Great Britain's theater markert, it appears to be high risk. If Louise were to proceed with entering the market, she should stick to a budget of no more than 2,000 pounds because this budget appears to be the blueprint of the plays that did survive in this country.
+
 
 ## In Conclusion:
+
+*For Short Term Success*
 
 If Louise wants to produce her play Fever with a budget of $10,000 and no less, she increases her chances of success if she:
 1. Considers running her play in the summer. May is the ideal month, followed by June and July
 2. Consider advertising her Kickstarter campaign to receive an average of 100 backers, and the campaign run needs to be complete within 30 days
 3. Possibly consider advertising for backers externally of the campaign to meet the volumn of backers necessary to achieve her financial goal
 4. Consider lowering her overall budget to possibly $5,000 or lower as viewed by the success of the Edinburgh Festival Fringe plays
-5. In regard to Great Britian's Theater Market, she should consider sticking to a budget of no more than 2,000 pounds, or not enter the market at all, based on Great Britains data. Great Britain's theater market is high risk.
 
+*For Long Term Success*
 
-Alternatively, an idea to long term success in plays that Louise can consider:
+By now, we understand that based on the data, the number of backers is the key to meeting and exceeding budget goals. Meeting and exceeding budget goals is necessary to be identified as "successful". Repeatedly within the data, it is demonstrated that it took many backers to make a successful play. That being said, Louise could also consider significantly lowering her budget for the play. The lower the budget, the easier it is to obtain enough backers based on curiosity alone in order to fund the play, especially if she is a playwrite without much of a name behind her. 
 
-By now, we understand that based on the data, the number of backers is the key to meeting and exceeding budget goals. Meeting and exceeding budget goals is necessary to be identified as "successful".
-
-Repeatedly within the data, it is demonstrated that it took many backers to make a successful play. That being said, Louise could also consider significantly lowering her budget for the play. The lower the budget, the easier it is to obtain enough backers based on curiosity alone in order to fund the play, especially if she is a playwrite without much of a name behind her. 
-
-The average budget of successful plays was $5,000, and the average pledge did exceed this. Lowering her budget could help bring her more immediate success as she continues to build her name in US plays. It is likely that for the higher budgeted plays, those pledging are repeat sponsors, versus first time sponsors. If Louise shows she can run a successful play with a minimum budget - proving that she can do more with less, then by the time she runs her next play, she will have acquired some faithful backers to exceed the budget of her next play. Through building up these repeat backers, in a matter of time, she will have enough backers plus some to run a much higher budgeted campaign and have enough volume of repeat backers behind her to exceed even her highest budget and for repeated support to future plays she is to write. The volume of backers, "repeat" backers, is key.
+The average budget of successful plays was $5,000, and the average pledge did exceed this. Lowering her budget could help bring her more immediate success as she continues to build her name in US plays. It is likely that for the higher budgeted plays, many of the individuals pledging are repeat sponsors, versus first time sponsors. If Louise shows she can run a successful play with a minimum budget - proving that she can do more with less, then by the time she runs her next play, she will have acquired some faithful backers to exceed the budget of her next play. Through building up these repeat backers, in a matter of time, she will have enough backers plus some to run a much higher budgeted campaign and have enough volume of repeat backers behind her to exceed even her highest budget and for repeated support to future plays she is to write. The volume of backers, "repeat" backers, is key.
 
