@@ -9,13 +9,17 @@ Our friend Louise will be producing a new project called 'Fever' with a budget o
 ## In Depth Views of Data Trends
 
 *Is the length of the fundraising campaign correlated with its success?*
+
 In utilizing the data provided, based on all of the successful plays in the US, the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days.
 
 ![](US_Outcome_Plays.png)
 
+
 *In what season were the campaigns the most successful?*
+
 Summer was the most successful season for the play campaigns. The month of May was the overall most successful, followed by June, July, and August. Unfortunately, those same months were the months of the highest failure rates as well as shown by the following chart:
 **Chart here**
+
 
 Considering that our client is seeking funding of $10,000 for her play, upon observing plays with that goal amount, it was discovered that failed plays seeking 10,000 averaged only $644 in pledge amounts. Campaigns of those plays ran an average of 30 days and they all had an average of only 8 backers. 
 The successful plays seeking the same amount averaged a total of 11,089 in pledge amounts and their campaigns ran for an average of 30 days, with an average of 114 backers. The chart of this information can be viewed here:
