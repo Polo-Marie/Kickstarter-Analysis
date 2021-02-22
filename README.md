@@ -25,6 +25,7 @@ Summer was the most successful season for the play campaigns. The month of May w
 Considering that our client is seeking funding of $10,000 for her play, upon observing plays with that goal amount, it was discovered that failed plays seeking 10,000 averaged only $644 in pledge amounts. Campaigns of those plays ran an average of 30 days and they all had an average of only 8 backers. 
 The successful plays seeking the same amount averaged a total of 11,089 in pledge amounts and their campaigns ran for an average of 30 days, with an average of 114 backers. The chart of this information can be viewed here:
 
+![](US_Outcome_Plays_10k.png)
 
 
 ### Kickstarters Campaign Statistical Components:
