@@ -18,12 +18,12 @@ In utilizing the data provided, based on all of the successful plays in the US, 
 *In what season were the campaigns the most successful?*
 
 Summer was the most successful season for the play campaigns. The month of May was the overall most successful, followed by June, July, and August. Unfortunately, those same months were the months of the highest failure rates as well as shown by the following chart:
-**Chart here**
+![](Outcomes Based on Launch Date.png)
 
 
 Considering that our client is seeking funding of $10,000 for her play, upon observing plays with that goal amount, it was discovered that failed plays seeking 10,000 averaged only $644 in pledge amounts. Campaigns of those plays ran an average of 30 days and they all had an average of only 8 backers. 
 The successful plays seeking the same amount averaged a total of 11,089 in pledge amounts and their campaigns ran for an average of 30 days, with an average of 114 backers. The chart of this information can be viewed here:
-**chart**
+
 
 
 ### Kickstarters Campaign Statistical Components:
@@ -40,6 +40,7 @@ The statistical components tells us:
 
 Louise also mentioned that she wanted to know how the Edinburgh Festival Fringe plays were funded. Based on the information obtained, all of the Edinburgh plays were quite successful. They all had an average goal of $2100. There average pledge exceeded that amount at about $2384. In addition to this, the average donation was $40 and the average number of backers was $62. 
 
+![](Edinburgh Research.png)
 
 
 ## Great Britain's Theater Market
