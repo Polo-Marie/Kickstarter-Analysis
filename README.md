@@ -6,13 +6,14 @@ The following analysis is to assist a playwrite.
 Our friend Louise will be producing a new project called 'Fever' with a budget of $10,000 and has asked us to analyze other crowdfunding projects to ensure hers obtains the greatest success. We will be looking at the trends of both successes and failures in great detail to formulate the best approach into the business for our friend, so that she breaks a leg when her show becomes LIVE and continues to do so for many successful show nights!
 
 
-In Depth Views of Data Trends
+## In Depth Views of Data Trends
 
-Is the length of the fundraising campaign correlated with its success?
+*Is the length of the fundraising campaign correlated with its success?*
 In utilizing the data provided, based on all of the successful plays in the US, the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days.
-![](Kickstarter-Analysis/US_Outcome_Plays.png)
 
-In what season were the campaigns the most successful?
+![](US_Outcome_Plays.png)
+
+*In what season were the campaigns the most successful?*
 Summer was the most successful season for the play campaigns. The month of May was the overall most successful, followed by June, July, and August. Unfortunately, those same months were the months of the highest failure rates as well as shown by the following chart:
 **Chart here**
 
@@ -21,23 +22,23 @@ The successful plays seeking the same amount averaged a total of 11,089 in pledg
 **chart**
 
 
-Kickstarters Campaign Statistical Components:
+### Kickstarters Campaign Statistical Components:
 
 **Include chart here**
 
 The statistical components tells us: 
-*The mean of each distribution is in the 3rd quartile and the data follows similar distributions in each subset
-*The standard eviations are larger than the mena, which meants that everything below the mean is considered "close" to the center
-*Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There mst be some failed Kickstarters with really high goals!
+- The mean of each distribution is in the 3rd quartile and the data follows similar distributions in each subset
+- The standard deviation is larger than the mean, which mean that everything below the mean is considered "close" to the center
+- Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
 
 
-Edinburgh Plays
+## Edinburgh Plays
 
 Louise also mentioned that she wanted to know how the Edinburgh Festival Fringe plays were funded. Based on the information obtained, all of the Edinburgh plays were quite successful. They all had an average goal of $2100. There average pledge exceeded that amount at about $2384. In addition to this, the average donation was $40 and the average number of backers was $62. 
 **Chart here**
 
 
-Great Britain's Theater Market
+## Great Britain's Theater Market
 
 Louise mentions of her interest in GB's theater market and how she intends to have a budget of 4000 pounds. 
 
@@ -45,7 +46,7 @@ Upon analyzing the data through the use of Box Plots, it shows us that, yes, the
 **Chart here**
 
 
-In Conclusion:
+## In Conclusion:
 
 If Louise wants to produce her play Fever with a budget of $10,000 and no less, she increases her chances of success if she:
 1. Considers running her play in the summer. May is the ideal month, followed by June and July
