@@ -39,7 +39,7 @@ The statistical components tells us:
 ## Edinburgh Plays
 
 Louise also mentioned that she wanted to know how the Edinburgh Festival Fringe plays were funded. Based on the information obtained, all of the Edinburgh plays were quite successful. They all had an average goal of $2100. There average pledge exceeded that amount at about $2384. In addition to this, the average donation was $40 and the average number of backers was $62. 
-**Chart here**
+
 
 
 ## Great Britain's Theater Market
@@ -47,7 +47,8 @@ Louise also mentioned that she wanted to know how the Edinburgh Festival Fringe 
 Louise mentions of her interest in GB's theater market and how she intends to have a budget of 4000 pounds. 
 
 Upon analyzing the data through the use of Box Plots, it shows us that, yes, the mean goal is 4000 pounds. These 4000 pounds are in fact outside of the range of outliers for the amount pledges. It will be ideal for Louise to get the play produces for less than 4000 pounds. Half of the campaign goals are less than 2,000 pounds, which is just over the 3rd quartile for amounts pledged, and 25% of the campaign goals have no pledged amount at all as demonstrated by the lower quartile of pledges beginning on the x-axis. 
-**Chart here**
+
+![](GBTheaterFund.png)
 
 
 ## In Conclusion:
