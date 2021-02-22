@@ -1,9 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 
-The following analysis is to assist a playwrite. 
+The following analysis is to assist a playwrite. Our friend Louise will be producing a new project called 'Fever' with a budget of $10,000 and has asked us to analyze other crowdfunding projects to ensure hers obtains the greatest success. We will be looking at the trends of both successes and failures in great detail to formulate the best approach into the business for our friend, so that she breaks a leg when her show becomes LIVE and continues to do so for many successful show nights!
 
-Our friend Louise will be producing a new project called 'Fever' with a budget of $10,000 and has asked us to analyze other crowdfunding projects to ensure hers obtains the greatest success. We will be looking at the trends of both successes and failures in great detail to formulate the best approach into the business for our friend, so that she breaks a leg when her show becomes LIVE and continues to do so for many successful show nights!
+In this analysis, we will take an in depth view of the overall trends associated with the data provided as well as the trends specifically pertaining to Louise's specialized industry. We will answer her important question as to length of successful campaigns, seasons of successful campaigns, trend of success with Louise's planned approach of campaigning for a 10,000 budget, statistical components of our research, results of analyzing the success of Edinburgh plays, and finally, the chance of success and suggestions of appoach if Louise attempts to enter into the theater industry of Great Britain with plays. We will then conclude with observations and suggestions to make a successful campaign, both in the short term, and in the long term.
 
 
 ## In Depth Views of Data Trends
@@ -65,6 +65,7 @@ If Louise wants to produce her play Fever with a budget of $10,000 and no less, 
 2. Consider advertising her Kickstarter campaign to receive an average of 100 backers, and the campaign run needs to be complete within 30 days
 3. Possibly consider advertising for backers externally of the campaign to meet the volumn of backers necessary to achieve her financial goal
 4. Consider lowering her overall budget to possibly $5,000 or lower as viewed by the success of the Edinburgh Festival Fringe plays
+
 
 *For Long Term Success*
 
