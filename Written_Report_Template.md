@@ -12,12 +12,28 @@ To further understand the successful vs failed outcomes of various campaigns, sh
 
 ## Analysis and Challenges
 
-
 ### Analysis of Outcomes Based on Launch Date
+
+Louise wanted to know the results of the data for Theater Outcomes based on their launch dates to find out when is the best time to launch a campaign.
+
+[](Images/Theater_Outcomes_vs_Launch.png)
+
+As we can see based on this image, the success plays were most successful in May, June, and July. 
+
 
 ### Analysis of Outcomes Based on Goals
 
+Louise also wanted a further depiction of the various play campaign goals against their actual campaign outcome.
+
+[](Images/Outcomes_vs_Goals.png)
+
+The most successful campaigns were those whose campaigns were under $10,000. The campaigns with the greatest chance of success and minimal failure were those campaigns that remained under $5000. Once the campaign exceeds $5000, the success and failure gap begins to shrink, as demonstrated by the chart. Successful campaigns show up again for goals between 35,000 and 45,000 and then falls drastically again. 
+
+
 ### Challenges and Difficulties Encountered
+
+Currently, no challenges are identified based on these results.
+
 
 ## Results
 
