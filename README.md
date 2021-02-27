@@ -13,7 +13,6 @@ In this analysis, we will take an in depth view of the overall trends associated
 In utilizing the data provided, based on all of the successful plays in the US, the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days.
 
 ![](./Images/US_Outcome_Plays.png)
-<img src="./Images/US_Outcome_Plays.png" width="300">
 
 
 *In what season were the campaigns the most successful?*
