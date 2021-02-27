@@ -12,14 +12,14 @@ In the Kickstarter campaigns, each campaign belongs to both a Parent Category an
 ### Parent Category
 As we take a general overview to the Kickstarter campaigns for all parent categories, we can see in the chart below that music and theater are the most successful campaigns of all. 
 
-**Photo Here**
+![](Images/Parent_Category_Outcomes.png)
 
 Between theater and music, music does run fewer campaigns, but even so, they both have about the similar success rates, but music has very little failed outcomes compared to that of theater. The theater industry almost has as many failures that successes, but successes are still significantly higher.
 
 ### Subcategory
 Looking deeper into what type of theater performances make up the most campaigns and the most successful campaigns, it would be the subcategory of plays, demonstrated by the following chart:
 
-**Chart**
+![](Images/Subcategory_Outcomes.png)
 
 As we can see, the subcategory of plays far exceed other subcategories both in both successes and failures. It appears to be the driving force of the entire Parent Category of Theater.
 
