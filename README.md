@@ -30,7 +30,7 @@ Now that we can visibly see how each Parent Category and Subcategory makes up al
 
 *Is the length of the fundraising campaign correlated with its success?*
 
-In utilizing the data in the first table provided, it is shown that the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days. Based on this table alone, it appears that the longer a campaign is run does not improve the success of the campaign. The second table, the actual correlation table, gives us a better breakdown as to other variables that do play a part into a play's success or failure. 
+In utilizing the data in the first table provided, it is shown that the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days. Based on this table alone, it appears that the longer a campaign is run beyond 30 days does not improve the success of the campaign. The second table, the actual correlation table, gives us a better breakdown as to other variables that do play a part into a play's success or failure. 
 
 ![](./Images/US_Outcome_Plays.png)
 
