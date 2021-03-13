@@ -30,9 +30,24 @@ Now that we can visibly see how each Parent Category and Subcategory makes up al
 
 *Is the length of the fundraising campaign correlated with its success?*
 
-In utilizing the data provided, based on all of the successful plays in the US, the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days.
+In utilizing the data in the first table provided, it is shown that the average running time of the fundraising campaign was 29 days. For the failed US plays, the average campaign run was 34 days. Based on this table alone, it appears that the longer a campaign is run does not improve the success of the campaign. The second table, the actual correlation table, gives us a better breakdown as to other variables that do play a part into a play's success or failure. 
 
 ![](./Images/US_Outcome_Plays.png)
+
+### Campaign Days Correlation to Success via Pledge and Goal Relationship:
+As we can see from the correlation table, the correlation of campaign days is 0.14 for successful plays against the variable of both the pledged amount and the goal amount of the campaign. In failed campaigns, its only 0.04 and 0.07, respectively. The correlation is very small that there just is not enough evidence to say that (as stated above) campaign days run affects a plays success/fail. 
+
+![](./Images/Kickstarter_Correlation.png)
+
+### Pledge and Goal Correlation to Success:
+Upon looking at the correlations of the goals against the pledges under successful campaigns, the correlation is a strong 0.99. This demonstrates that there is great evidence of how relevant each variable is to one another. Upon looking at the failed plays, the correlation between the pledge and goal amounts is 0.05. This matches well with the earlier chart that points out that in successful plays, there is an average pledge amount of $5,602 where the goal was an average of $5,049. The pledges of the successful plays met the goal by 110% on average. In opposition, the failed plays had an average pledge amount of $563 of a $10,621 goal, hereby meeting only 5% of their Kickstarter goal. This gap is represented well by the 0.99 (successful) and 0.05 (failed) correlation between the pledge and goal variables in the table. Because there is evidence of a strong relationship between goals and pledges of successful plays and such a weak relationship of this in the failed plays, we can only assume that the relationship between the goals and pledges is highly relevent to the outcome of plays.
+
+### Backers_Count Correlation to Success via Goal Relationship:
+The last variable we will observe is the backers_count. This variable represents the people who donated to the kickstarter campaign. As we can see in the above chart, with successful plays, the kickstarter campaign did meet 111% of their goal with an average of 63 backers contributing. This success and relatively high number of backers is shown in the correlation table. Here we can see a correlation of 0.74 between backers_count and goal, as well as a 0.80 correlation between the backers_count and the pledged variables.We can make note that the average goal is, again, around $5000. The failed plays, on the otherhand that met only 5% on goals, which had an average of 8 backers. We can note here that failed plays had an average goal of about $10,000.
+
+On the otherhand, in failed plays, revisiting how only 5% of their average $10,000 goal was met (about $800) with only 8 backers to support, we can see this relationship play out in the correlation table as well. The relationship of the backers_count with the pledged variable is an 0.89, showing that there is without a doubt a strong relationship between the number of backers and the amount of pledges - that would be the 8 backers to $800 in pledges. Yet, when observing the relationship between the backers_count and goal variables, we see that in the correlation chart is shown to be only 0.013. This indicates a very weak relationship, demonstrating the large gap between the 8 backers and the $10,000 average goal of plays. 
+
+Upon looking at the evidence, we can conclude that a strong relationship must exists both between the pledges and goals as well as backers and goals. Although this is so, it does appear that the biggest indicator of success is the relationship between the backers and the goals. If that relationship is strong, then it is a strong indication that success is not too far behind. 
 
 
 *In what season were the campaigns the most successful?*
