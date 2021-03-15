@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Follow Up Analysis after failed Kickstarter campaign for the play Fever
+Follow Up Analysis after failed Kickstarter campaign for the play "Fever"
 
 ### Background
 In the following analysis, we will be continuing with the Kickstarter analysis of our friend Louise. This time, she has completed her Kickstarter campaign. It does not appear that she took any of our suggestions from the first analysis, unfortunately. It turns out that Louise still decided to proceed with her request of a $10,000 goal for her new play, Fever. As a result, she still fell short of that goal in fundraising. 
@@ -58,5 +58,8 @@ Currently, no challenges or difficulties identified based on these results. The 
 
 
 - What are some other possible tables and/or graphs that we could create?
+
+  1. A regression analysis can also be done to demonstrate the relationships between the variables provided in the data. 
+  
 
 
